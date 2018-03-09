@@ -1,3 +1,3 @@
 # CSCI-221Project
-Time management\n
+Time management<br>
 Cha cha cha
